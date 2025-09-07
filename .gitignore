@@ -1,1 +1,10 @@
+*~
+
+*.pid
+*.log
+
+configs/local.conf
+
+/dist/
+/build/
 
