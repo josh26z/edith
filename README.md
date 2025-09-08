@@ -4,7 +4,7 @@
 
 **E**ven **D**ead, **I**'m **T**he **H**ost — EDITH continuously monitors system logs, establishes a baseline of normal activity, and alerts you to anomalous behavior that could indicate a brute-force attack, intrusion, or other malicious activity.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-GPLv3-green)
+![Version](https://img.shields.io/badge/version-0.9.0-blue) ![License](https://img.shields.io/badge/license-GPLv3-green)
 
 ## Features
 
